@@ -17,6 +17,6 @@
   <a href="https://www.linkedin.com/in/mariana-azevedo-7175b7246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariana-azevedo&label=Profile%20views&color=0e75b6&style=flat" alt="mariana-azevedo" /> </p>
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Mariana-Azevedo/Mariana-Azevedo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
