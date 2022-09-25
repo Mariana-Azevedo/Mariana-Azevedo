@@ -15,8 +15,14 @@
   <a href="https://www.instagram.com/mariana.azevedo__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mariana.silva.marir@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mariana-azevedo-7175b7246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariana-azevedo&label=Profile%20views&color=0e75b6&style=flat" alt="mariana-azevedo" /> </p>
  
   ![Snake animation](https://github.com/Mariana-Azevedo/Mariana-Azevedo/blob/output/github-contribution-grid-snake.svg)
+  
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Mariana-Azevedo}/count.svg" /></p> 
+<br></div>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D83B7D&height=120&section=footer"/>
  
 </div>
