@@ -74,15 +74,15 @@ QA Analyst | Test Automation | AI Testing
 
 ## 🌐 Connect with Me
 
-<div> 
+<div align="center"> 
 
-  <a href="mailto:mariana.azevedo.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:mariana.azevedo.tech@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
   </a>
 
   <a href="https://www.linkedin.com/in/mariana-azevedo-7175b7246/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+  </a>
 
 </div>
 
