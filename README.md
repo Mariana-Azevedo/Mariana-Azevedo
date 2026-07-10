@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mariana Azevedo</h1>
 
 <h3 align="center">
-QA Analyst | Test Automation | AI Testing
+QA Analyst | Business Analyst | AI Testing
 </h3>
 
 <p align="center">
